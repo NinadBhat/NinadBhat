@@ -26,7 +26,9 @@ jobs:
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: NinadBhat
-          output_file: ./github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
