@@ -29,7 +29,3 @@ My expertise lies in:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NinadBhat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐍 Contribution Graph
-![snake animation](https://raw.githubusercontent.com/NinadBhat/NinadBhat/output/github-contribution-grid-snake.svg)
-
-
