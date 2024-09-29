@@ -1,7 +1,7 @@
 # Hi there, I'm Ninad Bhat 👋
 
 ## About Me
-I'm a passionate Machine Learning Engineer with a strong background in Python software developement. Currently, I'm currently creating tools that use machine learning for materials science applications, particularly in alloy design.
+I'm a Machine Learning Engineer with a strong background in Python software developement. Currently, I'm creating tools that use machine learning for materials science applications, particularly in alloy design.
 
 My expertise lies in:
 - Interpretable Machine Learning (explainable AI)
