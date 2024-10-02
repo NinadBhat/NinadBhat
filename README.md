@@ -12,10 +12,6 @@ My expertise lies in:
 ## 🔭 Current Projects
 - [ML alloy designer](https://alloydesign.me/): A tool to design new alloys using machine learning.
 
-## 🌱 I'm currently learning
-- Systems Design
-- GCP Vertex AI for large scale ML applications
-
 ## 💼 Skills
 - Languages: Python (Primary), JavaScript
 - Frameworks: Pytorch, FastAPI, Django,  React
