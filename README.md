@@ -1,7 +1,7 @@
 # Hi there, I'm Ninad Bhat 👋
 
 ## About Me
-I'm a Machine Learning Engineer with a strong background in Python software developement. Currently, I'm creating tools that use machine learning for materials science applications, particularly in alloy design.
+I am a python software developer and PhD candidate at the Australian National University, specialising in Applied Machine Learning for Materials Design. During my PhD, I've worked as a software engineer at the [Software Innovation Institute](https://sii.anu.edu.au/) and [Instaclustr by NetApp](https://www.instaclustr.com/), and spent time as a research intern at the [Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Germany and [Nanocube](https://www.nanocube.com.au/) in Australia. I also had the opportunity to participate in Google Summer of Code 2021 with [AiiDA](https://www.aiida.net/), where I developed the [AiiDA-RESTAPI](https://github.com/aiidateam/aiida-restapi). I hold a Bachelor's and Master's degree from the Indian Institute of Technology, Bombay.
 
 My expertise lies in:
 - Interpretable Machine Learning (explainable AI)
