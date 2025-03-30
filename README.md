@@ -1,22 +1,22 @@
 # Hi there, I'm Ninad Bhat 👋
 
-## About Me
-I am a PhD candidate at the Australian National University, specialising in Applied Machine Learning for Materials Design. During my PhD, I've worked as a software engineer at the [Software Innovation Institute](https://sii.anu.edu.au/) and [Instaclustr by NetApp](https://www.instaclustr.com/), and spent time as a research intern at the [Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Germany and [Nanocube](https://www.nanocube.com.au/) in Australia. I also had the opportunity to participate in Google Summer of Code 2021 with [AiiDA](https://www.aiida.net/), where I developed the [AiiDA-RESTAPI](https://github.com/aiidateam/aiida-restapi). I hold a Bachelor's and Master's degree from the Indian Institute of Technology, Bombay.
+## About Me  
+I'm a Machine Learning Engineer at [Springboards.ai](https://springboards.ai/), where I focus on benchmarking and fine-tuning Large Language Models (LLMs) for creative applications. My work involves evaluating LLM performance, ensuring high-quality and diverse responses, and improving output through prompt engineering and custom fine-tuning. I'm particularly interested in enhancing response variation, coherence, and creativity in generative tasks.
 
+Previously, I completed a PhD in Applied Machine Learning at the Australian National University, where I built tools for materials design using AI. I've worked as a Software Engineer at the [Software Innovation Institute](https://sii.anu.edu.au/) and [Instaclustr by NetApp](https://www.instaclustr.com/), and held research internships at [IAS-9, Forschungszentrum Jülich](https://www.fz-juelich.de/en/ias/ias-9) in Germany and [Nanocube](https://www.nanocube.com.au/) in Australia.  
 
-## 🔭 Current Projects
-- [ML alloy designer](https://alloydesign.me/): A tool to design new alloys using machine learning.
+In 2021, I was selected for [Google Summer of Code](https://summerofcode.withgoogle.com/), contributing to [AiiDA](https://www.aiida.net/) by developing the [AiiDA-RESTAPI](https://github.com/aiidateam/aiida-restapi).  
+I hold a Bachelor's and Master's degree from IIT Bombay.
 
-## 💼 Skills
-- Languages: Python (Primary), JavaScript
-- Frameworks: Pytorch, FastAPI, Django,  React
-- Tools: Git, Docker, BitBucket, GCP
+## 💼 Skills  
+- **Languages:** Python, JavaScript  
+- **Frameworks:** PyTorch, FastAPI, Django, React  
+- **Tools & DevOps:** Git, Docker, GitHub Actions, Bitbucket, GCP (Artifact Registry, Cloud Run, Vertex AI)  
+- **Focus Areas:** LLM evaluation, prompt engineering, fine-tuning, MLOps
 
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/ninad-bhat/
-- Email: bhat.ninadmb@gmail.com
+## 📫 How to Reach Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ninad-bhat/)  
+- 📧 bhat.ninadmb@gmail.com
 
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=NinadBhat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
